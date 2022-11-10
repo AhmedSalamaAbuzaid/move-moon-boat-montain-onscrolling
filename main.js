@@ -26,8 +26,8 @@ window.onscroll = function() {
     boat6.style.top = value + "px"; 
 
     ahmed.style.fontSize = value + "px";
-    if (scrollY >= 45) {
-        ahmed.style.fontSize = 35 + "px";
+    if (scrollY >= 30) {
+        ahmed.style.fontSize = 30 + "px";
         ahmed.style.position = "fixed";
         if (scrollY >= 300) {
             ahmed.style.display = "none";
