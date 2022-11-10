@@ -1,4 +1,4 @@
-### used HTML and CSS and PURE JavaScript in this project
+### I have used HTML , CSS and PURE JavaScript in this project
 
 # move-moon-boat-montain-onscrolling
 
