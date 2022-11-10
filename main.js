@@ -27,7 +27,7 @@ window.onscroll = function() {
 
     ahmed.style.fontSize = value + "px";
     if (scrollY >= 45) {
-        ahmed.style.fontSize = 45 + "px";
+        ahmed.style.fontSize = 35 + "px";
         ahmed.style.position = "fixed";
         if (scrollY >= 300) {
             ahmed.style.display = "none";
