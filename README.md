@@ -14,6 +14,6 @@ i have changed the nav to an dynamic icone
 
 nav bar will hide on Scroll Down and Show on Scroll Up
 
-i added animation to the logo 
+i added animation to the logo.
 
 and i've played with imgs in landing section .
