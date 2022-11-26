@@ -2,7 +2,7 @@
 
 # move-moon-boat-montain-onscrolling
 
-This web site inspired by Novil academy 
+This web site inspired by Novil academy .
 
 i did some features to it 
 
